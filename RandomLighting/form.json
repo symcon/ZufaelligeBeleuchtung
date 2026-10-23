@@ -5,6 +5,7 @@
             "name": "Targets",
             "caption": "Color Variables",
             "add": true,
+            "multiAdd": true,
             "delete": true,
             "columns": [
                 {
